@@ -1,3 +1,4 @@
-var test 123;
-123 
-123;
+
+void Heyhey(){
+    System.Console("Do Nothing");
+}
