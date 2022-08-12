@@ -1,6 +1,7 @@
-var test 123;
-123 
-123;
 
 
-asdasd
+ void Hey(){
+var heyhey = "heyhey";
+
+System.Console.WriteLine(heyhey);
+}
